@@ -25,6 +25,7 @@ Refactorizando empresa-autonoma a algo más modular
 📫 Contacto
 
 GitHub: @IsmRooted
+
 LinkedIn: Ismael García Fernández
   
 
