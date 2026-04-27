@@ -1,4 +1,5 @@
 Hola 👋 Soy Ismael
+
 Estudiante de ciberseguridad. Aprendo construyendo cosas.
 🛠️ Stack
 
@@ -8,6 +9,7 @@ Infra: Docker, Linux, WSL2, VirtualBox
 IA aplicada: LLMs (Groq, OpenAI), agentes ReAct
 
 🚀 Proyectos
+
 empresa-autonoma — Sistema multi-agente con módulo de pentest. Shell root validado contra Metasploitable2.
 Pentest Metasploit Node.js LLM
 
@@ -15,6 +17,7 @@ PyHack — Juego por niveles con retos de Python ofensivo y defensivo para apren
 Python Offensive Defensive Learning
 
 🎯 Ahora mismo
+
 Profundizando en pentest y explotación
 Trasteando con LLMs locales (Ollama)
 Refactorizando empresa-autonoma a algo más modular
