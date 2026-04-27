@@ -1,31 +1,28 @@
-# Hola 👋 Soy Ismael
+Hola 👋 Soy Ismael
+Estudiante de ciberseguridad. Aprendo construyendo cosas.
+🛠️ Stack
 
-Aprendo construyendo. Actualmente explorando arquitecturas multi-agente con LLM aplicadas a ciberseguridad.
+Cyber: Kali Linux, Metasploit, nmap, pentest manual
+Backend: Node.js, Python
+Infra: Docker, Linux, WSL2, VirtualBox
+IA aplicada: LLMs (Groq, OpenAI), agentes ReAct
 
-## 🛠️ Stack
+🚀 Proyectos
+empresa-autonoma — Sistema multi-agente con módulo de pentest. Shell root validado contra Metasploitable2.
+Pentest Metasploit Node.js LLM
 
-- **Backend:** Node.js, Python
-- **Cyber:** Metasploit, nmap, Kali Linux, pentest manual
-- **IA:** LLMs (Groq, OpenAI), agentes ReAct, prompt engineering
-- **Infra:** Docker, Linux, WSL2, VirtualBox
+PyHack — Juego por niveles con retos de Python ofensivo y defensivo para aprender practicando.
+Python Offensive Defensive Learning
 
-## 🚀 Proyectos destacados
+🎯 Ahora mismo
+Profundizando en pentest y explotación
+Trasteando con LLMs locales (Ollama)
+Refactorizando empresa-autonoma a algo más modular
 
-### [empresa-autonoma](https://github.com/IsmRooted/empresa-autonoma)
-Sistema multi-agente IA con módulo de pentest activo. Shell root real validado contra Metasploitable2.
+📫 Contacto
 
-`Multi-agent` `LLM` `Cybersecurity` `Pentest` `Metasploit` `Node.js`
-
-## 🎯 Aprendiendo ahora
-
-- Research agents (ReAct, tool calling).
-- LLMs locales (Ollama, Llama 3.3).
-- Refactor de arquitectura monolítica a framework extensible.
-
-## 📫 Contacto
-
-- GitHub: @IsmRooted (https://github.com/IsmRooted)
-- LinkedIn: Ismael García Fernández
+GitHub: @IsmRooted
+LinkedIn: Ismael García Fernández
   
 
 ---
